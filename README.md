@@ -1,5 +1,5 @@
 
-# YouTube Downloader
+# YouTube 
 
 ### This project contains minimal code to work with YouTube i.e, downloading videos, playlists, thumbnails, fetch all the meta data(comments,title,description) etc. 
 
